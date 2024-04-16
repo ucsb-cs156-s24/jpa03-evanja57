@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-evanja57
 
 Running at: <https://jpa03-evanja57.dokku-02.cs.ucsb.edu/>
 
